@@ -1,5 +1,4 @@
 ##Week 1 overview
-
 import numpy as num
 
 x = 2
